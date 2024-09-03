@@ -1,4 +1,8 @@
 # Hi there 👋
+<img align = "center" src="https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif">
+
+
+
 
 ### I'm passionate about computer vision and love diving into math problems to explore new challenges and solutions. My journey revolves around integrating machine learning with real-world applications, and I’m always looking for creative ways to push the boundaries of technology.
 
