@@ -9,10 +9,10 @@
 
 ### I code in Python & TypeScript, love math, and am actively looking for opportunities as a
 <ul>
-  <li> Software Development Engineering Intern
-  <li> Machine Learning Intern
-  <li> Data Scientist/ Analyst Intern
-<ul>
+  <li> Software Development Engineering Intern</li>
+  <li> Machine Learning Intern</li>
+  <li> Data Scientist/ Analyst Intern</li>
+</ul>
 
 <img width="2160" height="1080" alt="image" src="https://github.com/user-attachments/assets/42643ba4-c8da-42a3-afb4-41be29dc058a" />
 
