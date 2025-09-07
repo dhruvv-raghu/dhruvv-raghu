@@ -1,7 +1,11 @@
 <img src='Github Header Banner.png'>
 
 <hr>
+👋 Hi, I'm Dhruv — a 4th year Engineering student at PES University, Bangalore and I am a:  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Machine+Learning+Enthusiast;Software+Development+;Writer+%7C+Technical+Writer+" alt="Typing SVG" /></a>
+💻 I code in Python & TypeScript, love math, and am actively looking for opportunities.
+
+
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/42643ba4-c8da-42a3-afb4-41be29dc058a" />
 
