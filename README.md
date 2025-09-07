@@ -5,7 +5,7 @@
 ### Lurking around my profile? I'm a fourth year engineering student at PES University, Bengaluru at the time of writing this.
 ### I could describe myself and my current interests with the following:  
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Machine+Learning+Enthusiast;Software+Development+;Writer+%7C+Technical+Writer+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&random=true&width=435&lines=Machine+Learning+Enthusiast;Software+Development+;Writer+%7C+Technical+Writer+;Learner+%7C+Eager+to+Teach" alt="Typing SVG" /></a>
 
 ### I code in Python & TypeScript, love math, and am actively looking for opportunities as a
 <ul>
@@ -15,6 +15,8 @@
 </ul>
 
 <img width="2160" height="1080" alt="image" src="https://github.com/user-attachments/assets/42643ba4-c8da-42a3-afb4-41be29dc058a" />
+
+## Here are some of my relevant skills:
 
 
 ## I kinda like doing this stuff.
