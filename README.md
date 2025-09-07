@@ -2,6 +2,7 @@
 
 <hr>
 # 👋 Hi, I'm Dhruv — a 4th year Engineering student at PES University, Bangalore and I could describe myself and my interests with the following:  
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Machine+Learning+Enthusiast;Software+Development+;Writer+%7C+Technical+Writer+" alt="Typing SVG" /></a>
 
 # 💻 I code in Python & TypeScript, love math, and am actively looking for opportunities.
