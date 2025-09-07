@@ -14,8 +14,6 @@
   <li> Data Scientist/ Analyst Intern
 <ul>
 
-<hr>
-
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/42643ba4-c8da-42a3-afb4-41be29dc058a" />
 
 
