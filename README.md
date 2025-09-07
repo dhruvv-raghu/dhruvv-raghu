@@ -1,6 +1,7 @@
 <img src='Github Header Banner.png'>
 
 <hr>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Machine+Learning+Enthusiast;Software+Development+;Writer+%7C+Technical+Writer+)](https://git.io/typing-svg)
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/42643ba4-c8da-42a3-afb4-41be29dc058a" />
 
