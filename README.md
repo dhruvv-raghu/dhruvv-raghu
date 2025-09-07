@@ -2,8 +2,8 @@
 
 <hr>
 
-### Glad to have you lurking around my profile! I'm a fourth year engineering student at PES University, Bengaluru as of the moment!.
-### I could describe myself and my interests with the following:  
+### Lurking around my profile? I'm a fourth year engineering student at PES University, Bengaluru at the time of writing this.
+### I could describe myself and my current interests with the following:  
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Machine+Learning+Enthusiast;Software+Development+;Writer+%7C+Technical+Writer+" alt="Typing SVG" /></a>
 
@@ -14,25 +14,30 @@
   <li> Data Scientist/ Analyst Intern
 <ul>
 
-
+<hr>
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/42643ba4-c8da-42a3-afb4-41be29dc058a" />
 
 
-![image](Github Banner Header.png)
+## I kinda like doing this stuff.
+So much so that I even made a Portfolio for this. <a href='https://main-pf-main.vercel.app'>Get clicky with this link to visit it.</a>
 
-# 
+## These are some of my brands in development:
+<a href= 'https://main-pf-lbxd.vercel.app'>[Watchr]</a> -> It's a chill blog about my passion for cinema. You can check out how it looks for now. I get a little analytical about stories, narratives and choices for storytelling. Soon enough, you'll see them all here. For now it's just going through testing and checks to ensure you have a smooth experience if you ever do visit it after I push every planned change into production. 
+
+<a href='https://main-pf-sport-main.vercel.app'>[Playr]</a> -> I am an avid watcher of sports, particularly football. It uses a similar template to my blog above. Both of them are based on Tiptap and use a Postgres Store. 
+
+
+
+### When I'm not:
 <img align = "center" src="https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif">
 
+You're mostly going to catch me writing my thoughts away. 
+Thanks for taking the time to view my profile.
+
+<blockquote> Being Kind is the real punk rock </blockquote>
 
 
-
-### sup.
-
-I kinda like doing this stuff.
-So much so that I even made a Portfolio for this.
-
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="56" height="56" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="56" height="56" /></div>
 
 
 
