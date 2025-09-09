@@ -17,8 +17,20 @@
 <img width="2160" height="1080" alt="image" src="https://github.com/user-attachments/assets/42643ba4-c8da-42a3-afb4-41be29dc058a" />
 
 ## Here are some of my relevant skills:
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic)
+
+### Programming and Scripting Languages:
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge)
+
+### Markup, Markdown, Drafting Related Langauges:
+![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
+![Obsidian Badge](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=fff&style=for-the-badge)
+![LaTeX Badge](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=for-the-badge)
+
+
+
 
 ## I kinda like doing this stuff.
 So much so that I even made a Portfolio for this. <a href='https://main-pf-main.vercel.app'>Get clicky with this link to visit it.</a>
