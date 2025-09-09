@@ -30,6 +30,8 @@
 ![LaTeX Badge](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=for-the-badge)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvv-raghu](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## I kinda like doing this stuff.
