@@ -18,6 +18,7 @@
 
 ## Here are some of my relevant skills:
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 
 ## I kinda like doing this stuff.
 So much so that I even made a Portfolio for this. <a href='https://main-pf-main.vercel.app'>Get clicky with this link to visit it.</a>
