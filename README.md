@@ -17,7 +17,7 @@
 <img width="2160" height="1080" alt="image" src="https://github.com/user-attachments/assets/42643ba4-c8da-42a3-afb4-41be29dc058a" />
 
 ## Here are some of my relevant skills:
-
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic)
 
 ## I kinda like doing this stuff.
 So much so that I even made a Portfolio for this. <a href='https://main-pf-main.vercel.app'>Get clicky with this link to visit it.</a>
