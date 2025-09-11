@@ -14,6 +14,18 @@
   <li> Data Scientist/ Analyst Intern</li>
 </ul>
 
+<div align="center">
+  <a href="raghudhruv2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/dhruvv-raghu-b114a3240/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  
+</div>
+
+<hr>
+
 <img width="2160" height="1080" alt="image" src="https://github.com/user-attachments/assets/42643ba4-c8da-42a3-afb4-41be29dc058a" />
 
 ## Here are some of my relevant skills:
@@ -30,7 +42,11 @@
 ![LaTeX Badge](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=for-the-badge)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvv-raghu](https://github.com/anuraghazra/github-readme-stats)
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=dhruvv-raghu&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Dhruvv's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvv-raghu&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Dhruvv's Streak" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvv-raghu&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Dhruvv's Most Used Languages" />
+</div>
 
 
 
