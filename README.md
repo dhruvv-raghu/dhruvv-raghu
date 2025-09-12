@@ -15,7 +15,7 @@
 </ul>
 
 <div align="center">
-  <a href="raghudhruv2@gmail.com">
+  <a href="https://raghudhruv2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/dhruvv-raghu-b114a3240/" target="_blank">
