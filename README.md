@@ -28,7 +28,7 @@
 
 <img width="2160" height="1080" alt="image" src="https://github.com/user-attachments/assets/42643ba4-c8da-42a3-afb4-41be29dc058a" />
 
-## Here are some of my relevant skills:
+# Here are some of my relevant skills:
 
 ### Programming and Scripting Languages:
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
@@ -37,6 +37,14 @@
 
 #### and I'm currently learning?:
 ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
+
+### Database Technologies:
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
+
+### I am learning Data Sanity and Validation with:
+![Pydantic Badge](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=fff&style=for-the-badge)
+![Zod Badge](https://img.shields.io/badge/Zod-408AFF?logo=zod&logoColor=fff&style=for-the-badge)
 
 
 ### Development and Frameworks:
@@ -60,10 +68,11 @@
 #### I also edit (albeit slowly) on:
 ![Vim Badge](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=for-the-badge)
 
+#### I am also familiar with Stream Editing, User and Group Management, AWK and other such shell provisions.
+
 
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=dhruvv-raghu&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Dhruvv's GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvv-raghu&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Dhruvv's Streak" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvv-raghu&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Dhruvv's Most Used Languages" />
 </div>
