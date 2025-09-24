@@ -90,7 +90,11 @@ I also discuss concepts I learn as part of my interests.
 You're mostly going to catch me writing my thoughts away. 
 Thanks for taking the time to view my profile.
 
+There's not much else I have to say, except maybe this:
+
 ## <blockquote> Being Kind is the real punk rock </blockquote>
+
+bye.
 
 
 
