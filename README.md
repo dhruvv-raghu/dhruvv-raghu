@@ -70,24 +70,19 @@
 
 #### I am also familiar with Stream Editing, User and Group Management, AWK and other such shell provisions.
 
-
+## Here's some of my Stats:
 
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvv-raghu&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Dhruvv's Streak" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvv-raghu&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Dhruvv's Most Used Languages" />
 </div>
 
-
-
 ## I kinda like doing this stuff.
 So much so that I even made a Portfolio for this. <a href='https://main-pf-main.vercel.app'>Get clicky with this link to visit it.</a>
 
-## These are some of my brands in development:
-<a href= 'https://main-pf-lbxd.vercel.app'>[Watchr]</a> -> It's a chill blog about my passion for cinema. You can check out how it looks for now. I get a little analytical about stories, narratives and choices for storytelling. Soon enough, you'll see them all here. For now it's just going through testing and checks to ensure you have a smooth experience if you ever do visit it after I push every planned change into production. 
-
-<a href='https://main-pf-sport-main.vercel.app'>[Playr]</a> -> I am an avid watcher of sports, particularly football. It uses a similar template to my blog above. Both of them are based on Tiptap and use a Postgres Store. 
-
-
+## Right now I'm working on a Technical Showcase and Discussions website:
+This is to discuss the technical decisions that went behind the design of my projects.
+I also discuss concepts I learn as part of my interests.
 
 ### When I'm not:
 <img align = "center" src="https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif">
@@ -95,12 +90,7 @@ So much so that I even made a Portfolio for this. <a href='https://main-pf-main.
 You're mostly going to catch me writing my thoughts away. 
 Thanks for taking the time to view my profile.
 
-<blockquote> Being Kind is the real punk rock </blockquote>
-
-
-
-
-
+## <blockquote> Being Kind is the real punk rock </blockquote>
 
 
 
