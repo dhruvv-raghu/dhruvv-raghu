@@ -2,16 +2,16 @@
 
 <hr>
 
-### Lurking around my profile? I'm a final-year Engineering student at PES University, Bengaluru.
+### Lurking around my profile? I'm a Senior Analyst at NatWest Digital in Gurgaon
 ### I bridge the gap between Software Platforms, Machine Learning Pipelines, and Infrastructure Performance.
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&random=true&width=435&lines=MLOps+%7C+Platform+Engineer;High+Performance+Inference;Backend+%26+Infrastructure;Writer+%7C+Technical+Writer" alt="Typing SVG" /></a>
 
-### I architect reliable software, optimize compute constraints, and am actively looking for opportunities as an:
+### I architect reliable software, optimize compute constraints, and always relish opportunities in:
 <ul>
-  <li> **MLOps / Platform Engineering Intern**</li>
-  <li> **Machine Learning Infrastructure Intern**</li>
-  <li> **Software Development Engineering Intern (Backend/Cloud)**</li>
+  <li> **MLOps / Platform Engineering**</li>
+  <li> **Machine Learning Infrastructure**</li>
+  <li> **Software Development Engineering**</li>
 </ul>
 
 <div align="center">
@@ -34,7 +34,7 @@
 ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge)
 ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge) *(Deepening)*
 
-### 🤖 LLMs & High-Performance Inference Engines
+### LLMs & High-Performance Inference Engines
 > Quantization (BF16, NF4) and optimization pipelines deployed across hardware topologies ranging from AWS `g4dn` nodes to corporate DGX Spark systems.
 
 ![vLLM](https://img.shields.io/badge/vLLM-000000?style=for-the-badge)
@@ -46,7 +46,7 @@
 ![DSPy](https://img.shields.io/badge/DSPy-FF6B6B?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-8A2BE2?style=for-the-badge)
 
-### 🪐 Cloud, Orchestration & Production Infrastructure
+### Cloud, Orchestration & Production Infrastructure
 > Hand-built and managed organizational infrastructure clusters utilizing event-driven auto-scaling mechanics.
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -56,7 +56,7 @@
 ![GCP](https://img.shields.io/badge/GCP_GCE_%7C_GAR-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO_S3-00BFFF?style=for-the-badge&logo=minio&logoColor=white)
 
-### 📈 Full-Stack Observability & MLOps Tracking
+### Full-Stack Observability & MLOps Tracking
 > Self-hosted and architected unified collection setups routing real-time telemetry, trace aggregations, and GPU-specific workloads via DCGM daemon layers.
 
 ![Grafana](https://img.shields.io/badge/Grafana_Stack-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -66,14 +66,14 @@
 ![Weights & Biases](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 ![Opik](https://img.shields.io/badge/Opik_LLM_Eval-00CC99?style=for-the-badge)
 
-### ⚡ Databases, Real-time Streaming & Data Validation
+### Databases, Real-time Streaming & Data Validation
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
 ![Redis Streams](https://img.shields.io/badge/Redis_Streams_&_Cache-DC382D?logo=redis&logoColor=fff&style=for-the-badge)
 ![Pydantic](https://img.shields.io/badge/Pydantic_Sanity-E92063?logo=pydantic&logoColor=fff&style=for-the-badge)
 ![Zod](https://img.shields.io/badge/Zod_Validation-408AFF?logo=zod&logoColor=fff&style=for-the-badge)
 
-### 🛡️ CI/CD, Supply Chain Security & Quality Gateways
+### CI/CD, Supply Chain Security & Quality Gateways
 > Implementing shift-left security strategies featuring static structural analysis, container dependency isolation, and auto-generated API stub configurations.
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_%7C_Pages-2088FF?logo=githubactions&logoColor=fff&style=for-the-badge)
@@ -83,12 +83,12 @@
 ![Ruff / Linting](https://img.shields.io/badge/Linters-Ruff_%7C_PyFlakes_%7C_Commitizen-lightgrey?style=for-the-badge)
 ![Fern](https://img.shields.io/badge/API-Fern_%7C_OpenAPI-green?style=for-the-badge)
 
-### 🧪 Benchmarking, Profiling & Test Systems
+### Benchmarking, Profiling & Test Systems
 ![Locust](https://img.shields.io/badge/Locust_Load_Testing-000000?style=for-the-badge)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff&style=for-the-badge)
 ![Scalene / Memray](https://img.shields.io/badge/Profilers-Memray_%7C_Scalene-informational?style=for-the-badge)
 
-### 📝 Technical Documentation & Environments
+### Technical Documentation & Environments
 ![Docusaurus](https://img.shields.io/badge/Docusaurus-303846?logo=docusaurus&logoColor=fff&style=for-the-badge)
 ![MkDocs / Sphinx](https://img.shields.io/badge/Docs-MkDocs_%7C_Sphinx-blue?style=for-the-badge)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=for-the-badge)
